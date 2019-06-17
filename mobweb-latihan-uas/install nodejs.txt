@@ -1,0 +1,9 @@
+download node js
+install node js
+jalanin node js
+
+buka cmd
+cd ke lokasi file
+npm install http-server -g
+http-server -a localhost -p 8000 -c-1
+buka localhost:8000/index.html
